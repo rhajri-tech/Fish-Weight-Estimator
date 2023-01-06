@@ -1,0 +1,19 @@
+This is a Linear Regression project applied on (Fish Dataset).
+
+______________________________________________________________
+
+** ABOUT DATASET **
+
+ - The Dataset contains information regarding a fish market including fishes Weight, Width, Heigth, Lengths and type name.
+
+
+
+** ABOUT MODEL **
+
+- This model will estimate a fish weight according to its width.
+
+- There is Linear Relationship between chosen feature and target from the dataset as it is plotted. 
+
+-Make sure you have already installed required libraries (Sklearn, Numpy, Pandas, Matplotlib) then open the and run the program to see the visual plots and model actions in terminal.
+
+
